@@ -21,6 +21,13 @@
 | **[pagedrop](https://github.com/ildargiv/pagedrop)** | Опишите сайт — получите живую ссылку на GitHub Pages |
 | **[ru-bonds-agent](https://github.com/ildargiv/ru-bonds-agent)** | Агент-аналитик облигаций РФ: MOEX, ФНС, отчётность, кредитный скоринг |
 
+### Финансовые агенты
+
+| Проект | Что делает |
+|---|---|
+| **[ru-stocks-agent](https://github.com/ildargiv/ru-stocks-agent)** | Инвестиционный отдел в ИИ-агенте: список наблюдения, папка на каждую акцию, инвесткомитет с адвокатом дьявола. Семейный офис — портфель пользователя и ежедневный разбор торгов MOEX |
+| **[finex-agent](https://github.com/ildargiv/finex-agent)** | Сопровождение ликвидации фондов FinEx: документы ликвидатора и суда, новости и Telegram, расчёт выплаты на пай против рыночной цены |
+
 ---
 
 ICC-профили и цвет: [vk.ru/icc_profil](https://vk.ru/icc_profil)
