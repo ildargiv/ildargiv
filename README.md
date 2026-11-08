@@ -78,10 +78,10 @@
 
 | Проект | Что делает |
 |---|---|
-| **[ru-bonds-agent](https://github.com/ildargiv/ru-bonds-agent)** | Агент-аналитик облигаций РФ: MOEX, ФНС, отчётность, кредитный скоринг |
-| **[ru-stocks-agent](https://github.com/ildargiv/ru-stocks-agent)** | Инвестиционный отдел в ИИ-агенте: список наблюдения, папка на каждую акцию, инвесткомитет с адвокатом дьявола |
-| **[ru-portfolio-agent](https://github.com/ildargiv/ru-portfolio-agent)** | Семейный офис: портфель акций Мосбиржи, ежедневный брифинг после закрытия, недельный обзор против IMOEX |
-| **[finex-agent](https://github.com/ildargiv/finex-agent)** | Сопровождение ликвидации фондов FinEx: документы ликвидатора и суда, новости и Telegram, расчёт выплаты на пай против рыночной цены |
+| **[ru-bonds-agent](https://github.com/ildargiv/ru-bonds-agent)** | Агент-аналитик облигаций РФ: MOEX, ФНС, отчётность, кредитный скоринг · [сайт](https://ildargiv.github.io/ru-bonds-agent/?utm_source=github&utm_medium=profile&utm_campaign=ru-bonds-agent) |
+| **[ru-stocks-agent](https://github.com/ildargiv/ru-stocks-agent)** | Инвестиционный отдел в ИИ-агенте: список наблюдения, папка на каждую акцию, инвесткомитет с адвокатом дьявола · [сайт](https://ildargiv.github.io/ru-stocks-agent/?utm_source=github&utm_medium=profile&utm_campaign=ru-stocks-agent) |
+| **[ru-portfolio-agent](https://github.com/ildargiv/ru-portfolio-agent)** | Семейный офис: портфель акций Мосбиржи, ежедневный брифинг после закрытия, недельный обзор против IMOEX · [сайт](https://ildargiv.github.io/ru-portfolio-agent/?utm_source=github&utm_medium=profile&utm_campaign=ru-portfolio-agent) |
+| **[finex-agent](https://github.com/ildargiv/finex-agent)** | Сопровождение ликвидации фондов FinEx: документы ликвидатора и суда, новости и Telegram, расчёт выплаты на пай против рыночной цены · [сайт](https://ildargiv.github.io/finex-agent/?utm_source=github&utm_medium=profile&utm_campaign=finex-agent) |
 
 </details>
 
@@ -103,4 +103,4 @@
 
 ---
 
-Ильдар Гайсин · разработчик КопиТехник · ICC-профили и цвет: [vk.ru/icc_profil](https://vk.ru/icc_profil)
+Ильдар Гайсин · разработчик КопиТехник · [все проекты на ildargiv.github.io](https://ildargiv.github.io/?utm_source=github&utm_medium=profile&utm_campaign=hub) · ICC-профили и цвет: [vk.ru/icc_profil](https://vk.ru/icc_profil)
